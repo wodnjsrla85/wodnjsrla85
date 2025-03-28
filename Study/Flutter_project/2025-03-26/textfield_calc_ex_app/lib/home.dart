@@ -8,13 +8,13 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  late TextEditingController num1;
-  late TextEditingController num2;
+  late TextEditingController num1;  //숫자1 (키보드는 숫자)
+  late TextEditingController num2;  //숫자2 (키보드는 숫자)
 
-  late TextEditingController add;
-  late TextEditingController min;
-  late TextEditingController mul;
-  late TextEditingController div;
+  late TextEditingController add; //덧셈결과 (읽기만 가능)
+  late TextEditingController min; //뺄셈결과 (읽기만 가능)
+  late TextEditingController mul; //곱셈결과 (읽기만 가능)
+  late TextEditingController div; //나눗셈결과 (읽기만 가능)
 
   @override
   void initState() {
