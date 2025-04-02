@@ -5,6 +5,7 @@ class TodoList {
   String imagePath; //이미지 주소
   String workList; 
   
+  //required를 사용하였기 때문에 late를 사용안해도 된다.
 
   //Constructor
   TodoList(
