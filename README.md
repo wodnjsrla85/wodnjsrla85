@@ -41,8 +41,8 @@
 
 ## 🛠️ Projects
 
-### 📱 MySalary (2025)  
-🧩 **AI/ML 연봉 예측 및 앱 서비스**    [GitHub 바로가기](https://github.com/wodnjsrla85/ai_job)  
+### 📱 MySalary (2025)   [GitHub 바로가기](https://github.com/wodnjsrla85/ai_job)  
+> AI/ML 연봉 예측 및 앱 서비스**    
 - 기능 1 : AI/ML 연봉 군집 예측
 - 기능 2 : 기술 스택으로 연봉 예측
 - 기능 3 : IT/과학 뉴스
