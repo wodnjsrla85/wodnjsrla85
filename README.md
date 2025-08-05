@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaewon Kim
+# 데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 김재원 입니다.
 
 I’m an aspiring **App Developer** with experience in Flutter, FastAPI, and Machine Learning.  
 Welcome to my portfolio!
@@ -36,9 +36,9 @@ Welcome to my portfolio!
 
 ## 📫 Contact
 
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: wodnsjrla85@naver.com
 - 💼 LinkedIn: [linkedin.com/in/jaewon-jeong](https://linkedin.com/in/jaewon-jeong)  
-- 🧑‍💻 Blog: [jaewon.dev](https://yourblog.com)
+- 🧑‍💻 youtube: https://www.youtube.com/@%EA%B9%80%EC%9E%AC%EC%9B%90-t6i4c
 
 ---
 
