@@ -5,126 +5,42 @@
 ![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=shadow_green)
 
----
-## 🛠️ Tech Stack
-
----
+## 🚀 Tech Stack
 
 ### 📱 Framework
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><br/>
-      <sub>Flutter</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="40" height="40"/><br/>
-      <sub>Swift</sub>
-    </td>
-  </tr>
-</table>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
 ### 💬 Language
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><br/>
-      <sub>Dart</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/><br/>
-      <sub>Swift</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>
-      <sub>Python</sub>
-    </td>
-  </tr>
-</table>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🔙 Backend / API
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/><br/>
-      <sub>Flask</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br/>
-      <sub>FastAPI</sub>
-    </td>
-  </tr>
-</table>
+### 🖥️ Backend / API
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ### 💾 Database
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>
-      <sub>Firebase</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>
-      <sub>MongoDB</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br/>
-      <sub>SQLite</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📦 Local Storage
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/hivedb/hive/master/images/logo_transparent.png" width="40" height="40"/><br/>
-      <sub>Hive</sub>
-    </td>
-  </tr>
-</table>
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFBA00?style=for-the-badge&logo=hive&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### ⚙️ State Management
+![Riverpod](https://img.shields.io/badge/Riverpod-4B3261?style=for-the-badge&logo=riverpod&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-black?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/Riverpod-4B3261?style=for-the-badge&logo=riverpod&logoColor=white" height="30"/><br/>
-      <sub>Riverpod</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/GetX-black?style=for-the-badge&logo=flutter&logoColor=white" height="30"/><br/>
-      <sub>GetX</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/><br/>
-      <sub>Provider</sub>
-    </td>
-  </tr>
-</table>
-
-
----
+--- 
 
 ## 🛠️ Projects
 
