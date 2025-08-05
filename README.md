@@ -3,7 +3,7 @@
  데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 지망생 김재원 입니다.
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요!%20저는%20재원입니다%20&fontSize=40&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=200&text=안녕하세요!%20저는%20재원입니다%20&fontSize=40&fontAlignY=40" width="100%"/>
 
 
 ## 🚀 Tech Stack
