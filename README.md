@@ -2,8 +2,9 @@
 
  데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 지망생 김재원 입니다.
 
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=shadow_green)
+<h1 align="center">👋 Welcome to Jaewon's GitHub! </h1>
+<p align="center">데이터 분석부터 모델 학습, 앱/웹까지 도전하는 예비 개발자 김재원입니다.</p>
+
 
 ## 🚀 Tech Stack
 
