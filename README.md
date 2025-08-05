@@ -128,10 +128,10 @@
 
 ## 🛠️ Projects
 
-### 📱 MySalary (2024)
+### 📱 MySalary (2025)
 > AI/ML 연봉 예측 서비스  
-🔗 [View Project](https://github.com/yourusername/mysalary)  
-🔧 Flutter + FastAPI + ML (FLAML)
+🔗 [View Project](https://github.com/wodnjsrla85/ai_job)  
+🔧 Flutter + FastAPI + ML (FLAML + Optuna)
 
 ### 🚲 Seoul Bike Predictor
 > 따릉이 수요 예측 및 시각화 프로젝트  
@@ -143,7 +143,6 @@
 ## 📫 Contact
 
 - ✉️ Email: wodnsjrla85@naver.com
-- 💼 LinkedIn: [linkedin.com/in/jaewon-jeong](https://linkedin.com/in/jaewon-jeong)  
 - 🧑‍💻 youtube: https://www.youtube.com/@%EA%B9%80%EC%9E%AC%EC%9B%90-t6i4c
 
 ---
