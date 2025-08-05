@@ -2,8 +2,8 @@
 
  데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 지망생 김재원 입니다.
 
-<h1 align="center">👋 Welcome to Jaewon's GitHub! </h1>
-<p align="center">데이터 분석부터 모델 학습, 앱/웹까지 도전하는 예비 개발자 김재원입니다.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요!%20저는%20재원입니다%20&fontSize=40&fontAlignY=40" width="100%"/>
 
 
 ## 🚀 Tech Stack
