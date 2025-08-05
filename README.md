@@ -1,6 +1,6 @@
-# 벌같은 마인드로 일하는 김재원 GitHub 입니다.
+# Jaewon's GitHub
 
- 데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 김재원 입니다.
+ 데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 지망생 김재원 입니다.
 
 ![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=shadow_green)
