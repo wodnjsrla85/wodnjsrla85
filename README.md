@@ -45,15 +45,14 @@
 ## 🛠️ Projects
 
 ### 📱 MySalary (2025)
-> AI/ML 연봉 예측 및 앱서비스  
+> AI/ML 연봉 예측 및 앱서비스    
 🔗 [View Project](https://github.com/wodnjsrla85/ai_job)  
-🔧 Flutter + FastAPI + ML (FLAML + Optuna)
+🔧 Flutter + Provider + FastAPI + ML (FLAML + Optuna) + Firebase
 
 ### 🚲 Seoul Bike Predictor (2025)
-> 서대문구 따릉이 수요 예측 및 웹서비스 
+> 서대문구 따릉이 수요 예측 및 웹서비스     
 🔗 [GitHub Repo](https://github.com/wodnjsrla85/DDaRng/tree/main)  
-📊 Pandas, Scikit-learn, Optuna
-
+📊 Flutter Web + FastAPI + ML (FLAML + Optuna) + Hive
 ---
 
 ## 📫 Contact
