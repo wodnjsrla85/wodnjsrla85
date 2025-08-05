@@ -47,7 +47,7 @@
 - 기능 2 : 기술 스택으로 연봉 예측
 - 기능 3 : IT/과학 뉴스
 - 기능 4 : 채팅기능
-- 
+  
 🔧 *Tech*: Flutter + Provider + FastAPI + FLAML + ML (FLAML + Optuna) + Firebase  
  
 
@@ -55,8 +55,9 @@
 > 서대문구 따릉이 수요 예측 및 웹서비스
 - 기능 1 : 서대문구 따릉이 현재 대여 가능 수
 - 기능 2 : 서대문구 12시간 이후까지 반납,대여 예측
--
+
 🔧 *Tech*: Flutter Web + FastAPI + ML (FLAML + Optuna) + Hive
+
 ---
 
 ## 📫 Contact
