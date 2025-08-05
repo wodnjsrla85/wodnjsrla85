@@ -1,5 +1,5 @@
 # Jaewon's GitHub
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello!%20I%27m%20Jaewon&fontSize=40&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&text=Hello!%20%20I%27m%20Jaewon&fontSize=40&fontAlignY=40" width="100%"/>
 
  데이터 분석부터 모델학습 그리고 앱 및 웹 서비스까지 하는 개발자 지망생 김재원 입니다.
 
